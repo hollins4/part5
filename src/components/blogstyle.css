@@ -1,0 +1,11 @@
+.blogStyling {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.deleteButton {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
